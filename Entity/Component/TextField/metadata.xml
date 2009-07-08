@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<component>
+    <uri>TextField</uri>
+    <title>Text Field</title>
+    <author>Blerby</author>
+    <image>TextField/extra/images/textfield.gif</image>
+    <summary>
+        The Text Input component is used for capturing single-line text input.
+    </summary>
+    <description>
+    <![CDATA[
+          This is some <b>html</b>  
+    ]]>
+    </description>
+</component>

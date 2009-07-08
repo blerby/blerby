@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<component>
+    <uri>TextArea</uri>
+    <title>Text Area</title>
+    <author>Blerby</author>
+    <image>TextArea/extra/images/textarea.gif</image>
+    <summary>
+        The Text Area component is used for capturing unlimited multi-line text input.
+    </summary>
+    <description>
+    <![CDATA[
+          This is some <b>html</b> 
+    ]]>
+    </description>
+</component>

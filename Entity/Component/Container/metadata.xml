@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<component>
+    <uri>Container</uri>
+    <title>Container</title>
+    <author>Blerby</author>
+    <image>Container/extra/images/container.gif</image>
+    <summary>
+        The Container component allows users to attach other entities to this component, forming a sort of composit structuring.
+    </summary>
+    <description />
+</component>

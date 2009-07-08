@@ -1,0 +1,14 @@
+<label for="<?php echo $this->name ?>"><?php echo $this->name ?></label>
+
+<select name="typeId">
+
+<?php 
+$types = Blerby_Entity_Core::instance()->types();
+foreach ($types as $type)
+{
+?>
+<option value="<?php echo $type->id; ?>" <?php echo ($this->typeId = $type->id) ? "selected=\"selected\"" : ''; ?>><?php echo $type->name; ?></option>
+<?php   
+}
+?>
+</select>
